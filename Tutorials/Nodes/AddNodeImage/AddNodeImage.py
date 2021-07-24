@@ -11,11 +11,17 @@ current_path = pathlib.Path(__file__).parent.resolve()
 graph = pydot.Dot("my_graph", graph_type="graph", overlap=False, splines='true')
 
 
-# Use image argument.
-# The default values are to size the node to the image size. From looking at the output we can see that it
-# is much too large and makes the other nodes difficult to read. In addition to this we still have the node text name
-# on top of the node image. Both of these will be changed in separate tutorials.
-graph.add_node(pydot.Node("Node 1", image=(str(current_path) + "/" + "Elon.png")))
+"""
+Use image argument.
+
+The default values are to size the node to the image size. From looking at the output we can see that it
+is much too large and makes the other nodes difficult to read. In addition to this we still have the node text name
+on top of the node image. Both of these will be changed in separate tutorials.
+
+Images must be .png format.
+"""
+
+graph.add_node(pydot.Node("Node 1", image=(str(current_path) + "/" + "Flower.png")))
 graph.add_node(pydot.Node("Node 2"))
 
 # Add edge
