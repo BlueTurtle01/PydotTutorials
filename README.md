@@ -1,5 +1,5 @@
 # PydotTutorials
-Tutorials and documentation for PyDot
+Tutorials and documentation for PyDot. Please open a new issue if there is a tutorial you would like to see. I am creating these as I create my own side project and come across a problem. Usually after trawling through many SO posts I solve the problem but I have created the below tutorials to save everyone having to piece things together like I have had to.
 
 
 # Graph
