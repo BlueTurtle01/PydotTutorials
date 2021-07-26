@@ -1,5 +1,5 @@
 # PydotTutorials
-Tutorials and documentation for PyDot. Please open a new issue if there is a tutorial you would like to see. I am creating these as I create my own side project and come across a problem. Usually after trawling through many SO posts I solve the problem but I have created the below tutorials to save everyone having to piece things together like I have had to.
+Tutorials and documentation for PyDot. Please open a new issue if there is a tutorial you would like to see. I am creating these as I create my own side project and come across a problem. Usually after trawling through many SO posts I solve the problem but I have created the below tutorials to save everyone having to piece things together like I have had to. I have added placeholders for upcoming tutorials in the relevant lists which will be converted to links as I create the documentation code.
 
 ## Installation
 Installation information can get found at the original repo: https://github.com/pydot/pydot but in short, <code>pip install pydot</code>
@@ -8,7 +8,12 @@ Installation information can get found at the original repo: https://github.com/
 Each link below will take you to a folder with a .py file containing the tutorial code, and a .png file that shows the output of said code.
 
 # Graph
-1. [Change Default Values](https://github.com/BlueTurtle01/PydotTutorials/blob/main/Tutorials/Graph/ChangeDefaultValues/ChangeDefaultValues.py)
+1. Creating a graph
+2. [Change Default Values](https://github.com/BlueTurtle01/PydotTutorials/blob/main/Tutorials/Graph/ChangeDefaultValues/ChangeDefaultValues.py)
+3. Save graph output
+4. Change <code>prog</code> (the program used to compile the graph
+5. Change graph background colour
+
 
 # Edges
 1. [Add Edge](https://github.com/BlueTurtle01/PydotTutorials/blob/main/Tutorials/Edges/AddEdge)
