@@ -1,10 +1,10 @@
 # PydotTutorials
 Tutorials and documentation for PyDot. Please open a new issue if there is a tutorial you would like to see. I am creating these as I create my own side project and come across a problem. Usually after trawling through many SO posts I solve the problem but I have created the below tutorials to save everyone having to piece things together like I have had to.
 
-# Installation
+## Installation
 Installation information can get found at the original repo: https://github.com/pydot/pydot but in short, <code>pip install pydot</code>
 
-## How to use this repo
+# How to use this repo
 Each link below will take you to a folder with a .py file containing the tutorial code, and a .png file that shows the output of said code.
 
 # Graph
