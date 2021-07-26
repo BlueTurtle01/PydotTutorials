@@ -11,7 +11,7 @@ Each link below will take you to a folder with a .py file containing the tutoria
 1. Creating a graph
 2. [Change Default Values](https://github.com/BlueTurtle01/PydotTutorials/blob/main/Tutorials/Graph/ChangeDefaultValues/ChangeDefaultValues.py)
 3. Save graph output
-4. Change <code>prog</code> (the program used to compile the graph
+4. Change <code>prog</code> (the program used to compile the graph)
 5. Change graph background colour
 
 
