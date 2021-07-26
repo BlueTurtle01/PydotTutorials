@@ -4,6 +4,9 @@ Tutorials and documentation for PyDot. Please open a new issue if there is a tut
 # Installation
 Installation information can get found at the original repo: https://github.com/pydot/pydot but in short, <code>pip install pydot</code>
 
+## How to use this repo
+Each link below will take you to a folder with a .py file containing the tutorial code, and a .png file that shows the output of said code.
+
 # Graph
 1. [Change Default Values](https://github.com/BlueTurtle01/PydotTutorials/blob/main/Tutorials/Graph/ChangeDefaultValues/ChangeDefaultValues.py)
 
