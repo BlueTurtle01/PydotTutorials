@@ -12,7 +12,7 @@ Each link below will take you to a folder with a .py file containing the tutoria
 2. [Change Default Values](https://github.com/BlueTurtle01/PydotTutorials/blob/main/Tutorials/Graph/ChangeDefaultValues/ChangeDefaultValues.py)
 3. [Save graph output](https://github.com/BlueTurtle01/PydotTutorials/tree/main/Tutorials/Graph/SaveGraph)
 4. [Change <code>prog</code> (the program used to compile the graph)](https://github.com/BlueTurtle01/PydotTutorials/tree/main/Tutorials/Graph/ChangeProgram)
-5. Change graph background colour
+5. [Change graph background colour](https://github.com/BlueTurtle01/PydotTutorials/tree/main/Tutorials/Graph/ChangeBackgroundColor)
 
 
 # Edges
