@@ -11,4 +11,4 @@ graph = pydot.Dot("my_graph", graph_type="graph", bgcolor="yellow")
 graph.add_node(pydot.Node("Node Name"))
 
 # Save the output
-graph.write_png("CreateGraph.png")
+graph.write_png("ChangeBackgroundColour.png")
