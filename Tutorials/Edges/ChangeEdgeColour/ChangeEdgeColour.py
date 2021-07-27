@@ -16,4 +16,4 @@ the colour of all edges.
 graph.add_edge(pydot.Edge("Node 1", "Node 2", color="blue"))
 
 # Save the output
-graph.write_png("AddEdge.png")
+graph.write_png("ChangeEdgeColour.png")
